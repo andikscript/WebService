@@ -36,3 +36,6 @@ Aplikasi Web dengan Webservice Server menggunakan JAX-RS dan Webservice Client m
 
 * Akses Webservice Client : 
 > http://localhost/webservice_client/index.php/PinjamBuku
+
+## Video :
+> [Link Video](https://drive.google.com/file/d/1r4tgJo3ILLK6isMuAlWyQuHY-nOA9LwN/view?usp=sharing) 
