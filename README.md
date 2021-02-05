@@ -1,16 +1,16 @@
 # Webservice Server (JAX-RS) & Webservice Client (Codeigniter 3)
 Aplikasi Web dengan Webservice Server menggunakan JAX-RS dan Webservice Client menggunakan Framework Codeigniter 3 
 
-## Build Tool :
+### Build Tool :
 - [x] Maven
 
-## Webserver :
+### Webserver :
 - [x] Payara Server
 
-## Database :
+### Database :
 - [x] Mysql
 
-## Installation :
+### Installation :
   * Webservice Server :
 1. Open Project yang ada di folder 'Webservice Server di IDE'
 2. Kemudian Jalankan Xampp (Apache & Mysql)
