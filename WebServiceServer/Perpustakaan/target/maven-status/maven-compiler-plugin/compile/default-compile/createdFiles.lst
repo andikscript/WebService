@@ -1,0 +1,12 @@
+com\andik\entity\Pinjam_.class
+com\andik\perpustakaan\resources\JavaEE8Resource.class
+com\andik\perpustakaan\JAXRSConfiguration.class
+com\andik\entity\Buku.class
+com\andik\entity\Pinjam.class
+com\andik\controller\BukuServlet.class
+com\andik\model\PinjamDaoLocal.class
+com\andik\model\BukuDaoLocal.class
+com\andik\model\BukuDao.class
+com\andik\entity\Buku_.class
+com\andik\model\PinjamDao.class
+com\andik\controller\PinjamServlet.class
