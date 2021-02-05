@@ -32,10 +32,10 @@ Aplikasi Web dengan Webservice Server menggunakan JAX-RS dan Webservice Client m
 > http://localhost:8080/Perpustakaan/Api/Pinjam/pinjam/
 
 * Akses RESTFul API Pencarian Buku : 
-> http://localhost:8080/Perpustakaan/Api/Buku/buku/{idbuku}
+ > http://localhost:8080/Perpustakaan/Api/Buku/buku/{idbuku}
 
 * Akses Webservice Client : 
-> http://localhost/webservice_client/index.php/PinjamBuku
+ > http://localhost/webservice_client/index.php/PinjamBuku
 
 ## Video :
-> [Link Video](https://drive.google.com/file/d/1r4tgJo3ILLK6isMuAlWyQuHY-nOA9LwN/view?usp=sharing) 
+ > [Link Video](https://drive.google.com/file/d/1r4tgJo3ILLK6isMuAlWyQuHY-nOA9LwN/view?usp=sharing) 
