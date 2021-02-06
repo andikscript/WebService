@@ -12,7 +12,7 @@ Aplikasi Web dengan Webservice Server menggunakan JAX-RS dan Webservice Client m
 
 ### Installation :
   * Webservice Server :
-1. Open Project yang ada di folder 'Webservice Server di IDE'
+1. Open Project yang ada di folder 'Webservice Server' di IDE
 2. Kemudian Jalankan Xampp (Apache & Mysql)
 3. Buat Database perpus
 4. Import database perpus di folder 'database' (perpus.sql)
